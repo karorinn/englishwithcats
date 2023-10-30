@@ -83,8 +83,13 @@ h2{
 .nav_item{
   color: white;
 }
+.nav-link{
+  color:white;
+}
+.nav-link:hover{
+  color: #6A6891;
+}
 .hid{
-  
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -107,9 +112,6 @@ header{
 }
 .modal-dialog {
   max-width: 700px;
-}
-.sign_up_modal{
-  width:600px
 }
 .modal_text{
  color: #6A6891;
